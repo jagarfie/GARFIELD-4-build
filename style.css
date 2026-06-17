@@ -134,7 +134,8 @@ footer {
   main {
     grid-template-columns: 1fr 1fr 1fr;
   }
-.cards {
-  grid-template-columns: repeat(3, 1fr);
-}
+
+  .cards {
+    grid-template-columns: repeat(3, 1fr);
+  }
 }
